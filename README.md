@@ -1,7 +1,4 @@
-# cole-st-cookbook
+# [Read the cookbook!](https://github.com/kag0/cole-st-cookbook/wiki)
 
-## Table of Contents
-
-### Food
-
-### Drinks
+### Clone the cookbook!
+`https://github.com/kag0/cole-st-cookbook.wiki.git`
